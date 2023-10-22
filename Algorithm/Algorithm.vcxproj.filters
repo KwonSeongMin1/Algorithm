@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\선형&amp;연결리스트">
+      <UniqueIdentifier>{693541a7-dfcd-4d66-8f79-c237868d0d2d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Algorithm.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="백준 2605-줄 세우기.c">
+      <Filter>소스 파일\선형&amp;연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2605-줄 세우기(연결리스트풀이).c">
+      <Filter>소스 파일\선형&amp;연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 12605-단어순서 뒤집기.c">
+      <Filter>소스 파일\선형&amp;연결리스트</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
