@@ -16,6 +16,18 @@
     <Filter Include="소스 파일\선형&amp;연결리스트">
       <UniqueIdentifier>{693541a7-dfcd-4d66-8f79-c237868d0d2d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{901dbaed-df91-47ab-870c-4d3c19cce0aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\해시">
+      <UniqueIdentifier>{a45b4e92-39a1-4639-b7fc-0d6e3a6a49c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{4a3b88cd-7d8c-4fdf-ad3a-d36646cfd78b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\큐">
+      <UniqueIdentifier>{085acf70-e252-4aff-ba63-8f267b43e1db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="백준 2605-줄 세우기.c">
@@ -25,7 +37,28 @@
       <Filter>소스 파일\선형&amp;연결리스트</Filter>
     </ClCompile>
     <ClCompile Include="백준 12605-단어순서 뒤집기.c">
-      <Filter>소스 파일\선형&amp;연결리스트</Filter>
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 17608-막대기.c">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 27160-할리갈리.c">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 29701-모스 부호.c">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 1417-국회의원 선거.c">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 2161-카드1.c">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="백준 7785-회사에 있는 사람.c">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
