@@ -3,7 +3,5 @@
 
 목표 : solved.ac 플래티넘 이상. 자료구조 개념 확실하게 알기
 
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sacredheart)](https://solved.ac/sacredheart)
