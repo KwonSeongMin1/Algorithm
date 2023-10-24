@@ -30,34 +30,49 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="백준 2605-줄 세우기.c">
+    <ClCompile Include="선형&amp;연결리스트\백준 2605-줄 세우기.c">
       <Filter>소스 파일\선형&amp;연결리스트</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2605-줄 세우기(연결리스트풀이).c">
+    <ClCompile Include="선형&amp;연결리스트\백준 2605-줄 세우기%28연결리스트풀이%29.c">
       <Filter>소스 파일\선형&amp;연결리스트</Filter>
     </ClCompile>
-    <ClCompile Include="백준 12605-단어순서 뒤집기.c">
+    <ClCompile Include="스택\백준 12605-단어순서 뒤집기.c">
       <Filter>소스 파일\스택</Filter>
     </ClCompile>
-    <ClCompile Include="백준 17608-막대기.c">
+    <ClCompile Include="스택\백준 17608-막대기.c">
       <Filter>소스 파일\스택</Filter>
     </ClCompile>
-    <ClCompile Include="백준 27160-할리갈리.c">
+    <ClCompile Include="해시\백준 27160-할리갈리.c">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
-    <ClCompile Include="백준 29701-모스 부호.c">
+    <ClCompile Include="해시\백준 29701-모스 부호.c">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
-    <ClCompile Include="백준 1417-국회의원 선거.c">
+    <ClCompile Include="그리디\백준 1417-국회의원 선거.c">
       <Filter>소스 파일\그리디</Filter>
     </ClCompile>
-    <ClCompile Include="백준 2161-카드1.c">
+    <ClCompile Include="큐\백준 2161-카드1.c">
       <Filter>소스 파일\큐</Filter>
     </ClCompile>
-    <ClCompile Include="백준 7785-회사에 있는 사람.c">
+    <ClCompile Include="해시\백준 7785-회사에 있는 사람.c">
       <Filter>소스 파일\해시</Filter>
     </ClCompile>
     <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이분탐색\백준 4158-CD.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이분탐색\백준 10815-숫자 카드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐\백준 11866-요세푸스 문제 0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택\백준 23253-자료구조는 정말 최고야.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="해시\백준 25325-학생 인기도 측정%28재도전%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
