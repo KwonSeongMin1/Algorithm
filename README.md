@@ -6,4 +6,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sacredheart)](https://solved.ac/sacredheart)
 
-#2023-10-27 Silver2
+2023-10-27 Silver2
