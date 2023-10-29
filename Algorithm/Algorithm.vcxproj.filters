@@ -93,5 +93,14 @@
     <ClCompile Include="이분탐색\백준 1920-수 찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="해시\백준 29723-브실이의 입시전략.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐\백준 1158-요세푸스 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="트리\백준 1269-대칭 차집합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
