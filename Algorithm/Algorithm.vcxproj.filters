@@ -81,7 +81,7 @@
     <ClCompile Include="그리디\백준 25631-마트료시카 합치기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="해시\25757 백준-임스와 함께하는 미니게임.c">
+    <ClCompile Include="해시\백준 25757-임스와 함께하는 미니게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="큐\백준 26042-식당 입구 대기 줄.c">
@@ -100,6 +100,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="트리\백준 1269-대칭 차집합.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="해시\백준 1302-베스트셀러.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="해시\백준 1544-사이클 단어.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="해시\백준 1620-나는야 포켓몬 마스터 이다솜.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
