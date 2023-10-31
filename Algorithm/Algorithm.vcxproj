@@ -188,7 +188,12 @@
     <ClCompile Include="해시\백준 1544-사이클 단어.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="해시\백준 1620-나는야 포켓몬 마스터 이다솜.c" />
+    <ClCompile Include="해시\백준 1620-나는야 포켓몬 마스터 이다솜.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="해시\백준 1764-듣보잡.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="해시\백준 25757-임스와 함께하는 미니게임.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
